@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front end development
 - 🌱 I’m currently using Vue in my day to day job but in my spare time I like to play with react
 - 💞️ I’m looking to collaborate on anything! I just want to learn and practice all the time.
-- 📫 How to reach me: BiggyJ_Dev@outlook.com
+- 📫 How to reach me:  Jordan_wilson1999@outlook.com
 
 <!---
 BiggyJDev/BiggyJDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
