@@ -9,6 +9,9 @@ Sites I have built at Twilo include:
 - https://emicaconsulting.com/
 - https://easibedding.co.uk/
 
+Custom Private Builds
+- agencies.co
+
 Whilst at Twilo Creative I was also involved in a SPA build which comprised of a Laravel Backend and a Vue.js Fronend.
 
 With this build I focused on the front end development where I worked with mulitple packages on the Vue Ecosystem including:
