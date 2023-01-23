@@ -10,7 +10,7 @@ Sites I have built at Twilo include:
 - https://easibedding.co.uk/
 
 Custom Private Builds
-- agencies.co
+- https://agencies.co
 
 Whilst at Twilo Creative I was also involved in a SPA build which comprised of a Laravel Backend and a Vue.js Fronend.
 
