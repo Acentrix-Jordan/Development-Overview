@@ -8,6 +8,13 @@ Sites I have built at Twilo include:
 - https://rcapital.co.uk/
 - https://emicaconsulting.com/
 - https://easibedding.co.uk/
+- https://glasgowcomputerrecycling.co.uk/
+
+Sites awaiting release
+- Rocking Horse
+- JJ Electrical
+- Point 2 Point
+- Space Contract Interiors
 
 Custom Private Builds
 - https://agencies.co
