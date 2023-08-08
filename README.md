@@ -7,6 +7,9 @@ Sites I have built/been involved in the build or helped maintain
 - https://acentrix.co.uk/
 - https://agencies.co/
 - https://1912.co.uk/
+- https://www.generationlogistics.org/
+- https://www.conferenceleeds.co.uk/
+- https://www.visitleeds.co.uk/
 - https://rcapital.co.uk/
 - https://tumblebugs.co.uk/
 - https://emicaconsulting.com/
